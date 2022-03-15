@@ -9,7 +9,7 @@ Nice to meet you✨
 This repo is created for my STATS 220 course in [The University of Auckland](https://www.auckland.ac.nz)
 
 ## Works I Have Done:
-- A1: [My Meme]()
+- A1: [My Meme](https://github.com/mano3o/stats220/blob/main/index.md)
 
 ***💜Feel Free To [Follow Me](https://github.com/mano3o)💜***
 
