@@ -86,4 +86,7 @@ fig2 <- c(netherite_pick, netherrack, playing)%>%
 #join 2 parts
 c(fig1, fig2)%>%
   image_append(stack = TRUE)%>%
+ 
+#save meme
+image_write("my_meme.png")
 ```
