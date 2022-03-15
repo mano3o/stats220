@@ -1,6 +1,6 @@
 # 🌟 ASSIGNMENT 1 🌟
 
-Hello! Welcome to my *assignment 1 website*
+Hello! Welcome to my *assignment 1 Part A website*
 
 
 ## About Me 🐑
