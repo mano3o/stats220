@@ -1,7 +1,8 @@
 # 🌟 WELCOME 🌟
 
 ***Hi guys! I'm Karman🐑***
-Nice to meet you
+
+Nice to meet you✨
 
 ![Hi](https://c.tenor.com/Q4y227Xead8AAAAM/llama-cute.gif)
 
