@@ -11,7 +11,7 @@ This repo is created for my STATS 220 course in [The University of Auckland](htt
 ## Works I Have Done:
 - A1: [My Meme]()
 
-***Feel Free To Follow Me💜***
+***💜Feel Free To [Follow Me](https://github.com/mano3o)💜***
 
 
 `HAHAHA I DON'T KNOW WHAT I CAN WRITE IN THIS PAGE🥲`
